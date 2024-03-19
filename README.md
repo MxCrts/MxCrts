@@ -9,7 +9,7 @@ Full Stack Developer with a Master's degree, my curiosity and love for problem-s
 * 🌍  I'm based in Perpignan
 * ✉️  You can contact me at [maxime.cortes.dev@gmail.com](mailto:maxime.cortes.dev@gmail.com)
 * 🚀  I'm currently working on [The Spirit Stones](http://the-spirit-stones.com/)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Learn Fast, Work Well, Don't Disappoint
 
